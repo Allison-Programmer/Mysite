@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(234, 250, 9);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+.a{
+    padding-top: 300px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
